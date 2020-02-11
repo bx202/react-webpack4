@@ -19,7 +19,7 @@
   "homepage": "https://github.com/LukeMwila/react-webpack4-no-cli#readme",
   "dependencies": {
     "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "react-dom": "^16.3.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
